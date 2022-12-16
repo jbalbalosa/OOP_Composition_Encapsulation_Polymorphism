@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf00a94-4bdb-416d-87ad-3d587c540c76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff/balbalosa/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Vehicle.java" afterDir="false" />
+    <list default="true" id="fdf00a94-4bdb-416d-87ad-3d587c540c76" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jeff/balbalosa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jeff/balbalosa/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jeff/balbalosa/Monitor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671077983051</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1671157111892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671157111892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

@@ -22,7 +22,7 @@ public class Monitor {
         return model;
     }
 
-    public String getManufacturerl() {
+    public String getManufacturer() {
         return manufacturerl;
     }
 
